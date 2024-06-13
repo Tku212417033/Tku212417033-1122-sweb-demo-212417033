@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "buttermilk pancakes",
+    "category": "breakfast",
+    "price": 15.59,
+    "local_img": "./images/item-1.jpeg",
+    "remote_img": "",
+    "descrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam."
+  },
+  {
+    "id": 2,
+    "title": "diner double",
+    "category": "dessert",
+    "price": 13.99,
+    "local_img": "./images/item-2.jpeg",
+    "remote_img": "",
+    "descrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam. Enim voluptas, expedita "
+  },
+  {
+    "id": 3,
+    "title": "godzilla milkshake",
+    "category": "shakes",
+    "price": 6.99,
+    "local_img": "./images/item-3.jpeg",
+    "remote_img": "",
+    "descrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolores ut iusto quas quia dignissimos ullam. Enim voluptas, expedita"
+  }
+]
+
